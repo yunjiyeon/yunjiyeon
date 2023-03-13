@@ -17,10 +17,10 @@
   
  <img src="https://img.shields.io/badge/Figma-181823?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Photoshop-181823?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/PWA-181823?style=for-the-badge&logo=PWA&logoColor=white"><br><br><br><br>
  
-![yunjiyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjiyeon&theme=vue&show_icons=true)
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunjiyeon&theme=vue" alt="yunjiyeon" />
+ <img width=40% src="https://github-readme-stats.vercel.app/api?username=yunjiyeon&theme=vue&show_icons=true&locale=en" alt="yunjiyeon" /> 
+ <img width=42% src="https://github-readme-streak-stats.herokuapp.com/?user=yunjiyeon&theme=vue" alt="yunjiyeon" />
  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uoah)](https://velog.io/@uoah) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uoah)](https://velog.io/@uoah) 
 </div>
 
 
