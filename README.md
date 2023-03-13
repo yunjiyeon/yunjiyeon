@@ -1,8 +1,8 @@
 ![wave](https://capsule-render.vercel.app/api?type=wave&color=fff000&height=200&text=%20)
 
 <br><br><br>
-### **<div align="center">👋 Hi, there!</div>**
-<div align="center">
+### **<div>👋 Hi, there!</div>**
+<div >
 <br>
 사용자의 참여를 이끌며,<br>
 쉽고 완전한 기능을 구현하는 프론트 엔드 개발자가 되기 위해<br> 
