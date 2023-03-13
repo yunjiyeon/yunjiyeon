@@ -1,4 +1,11 @@
-### Hi there 👋
+![wave](https://capsule-render.vercel.app/api?type=wave&color=fff000&height=200&text=JiYeon%20Yun)
+
+
+<div align="center">Hi, there! 👋🏻</div>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=539165&height=200&section=footer&text=&fontSize=90)
+
+
 
 <!--
 **yunjiyeon/yunjiyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
