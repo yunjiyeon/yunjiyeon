@@ -1,4 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=wave&color=fff000&height=200&text=JiYeon%20Yun)
+![wave](https://capsule-render.vercel.app/api?type=wave&color=fff000&height=200&text=%20)
 
 <br><br><br>
 ### **<div align="center">👋 Hi, there!</div>**
