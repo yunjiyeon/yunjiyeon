@@ -23,7 +23,7 @@
   
  <img src="https://img.shields.io/badge/Figma-181823?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Photoshop-181823?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/PWA-181823?style=for-the-badge&logo=PWA&logoColor=white"><br><br><br>
 
- <img width=47% src="https://github-readme-stats.vercel.app/api?username=yunjiyeon&theme=flag-india&show_icons=true&locale=en" alt="yunjiyeon" /> 
+ <img width=50% src="https://github-readme-stats.vercel.app/api?username=yunjiyeon&theme=flag-india&show_icons=true&locale=en" alt="yunjiyeon" /> 
  <img width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=yunjiyeon&theme=flag-india" alt="yunjiyeon" />
   <br><br>
  
